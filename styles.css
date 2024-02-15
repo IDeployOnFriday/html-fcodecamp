@@ -16,3 +16,9 @@ h1, h2, p {
 .flavor {
   text-align: left;
 }
+
+.price {
+  text-align: right;
+}
+
+
